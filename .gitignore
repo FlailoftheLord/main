@@ -1,5 +1,6 @@
 
 .console_history
+.gitattributes
 /world/
 /world_nether/
 /world_the_end/
